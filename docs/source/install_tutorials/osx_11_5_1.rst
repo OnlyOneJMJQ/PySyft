@@ -251,7 +251,7 @@ Step 6: Install Docker
 
   |docker_install_6|
 
-* Step 6.9: The yellow color in the bottom right means Docker is still booting. Wait until it's green to proceed. It will look like:
+* Step 6.9: The yellow color in the bottom left means Docker is still booting. Wait until it's green to proceed. It will look like:
 
   |docker_install_12|
 
@@ -261,7 +261,7 @@ Step 6: Install Docker
 Step 7: Increase the RAM Docker uses to 8GB
 ===========================================
 
-* Step 7.0: If the Docker window has been closed, look at teh top bar of your screen on the right for a small whale logo that looks like this:
+* Step 7.0: If the Docker window has been closed, look at the top bar of your screen on the right for a small whale logo that looks like this:
 
   |docker_logo|
 
